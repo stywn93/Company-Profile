@@ -54,7 +54,8 @@ class Home extends BaseController
             'staff_total' => $this->dashboard->staff()->total,
         ];
 
-        return view('front-end/layout/v_wrapper', $data);
+        // return view('front-end/layout/v_wrapper', $data);
+        return view('front-end/v_home2', $data);
         
     }
 

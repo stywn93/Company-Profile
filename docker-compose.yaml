@@ -1,0 +1,38 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: compro-ci4-app
+    ports:
+      - "8080:80"
+    volumes:
+      - .:/var/www/html
+    environment:
+      - CI_ENVIRONMENT=development
+    networks:
+      - ci4-network
+    depends_on:
+      - db
+
+  db:
+    image: mysql:8.0
+    container_name: compro-ci4-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: ci4_db
+      MYSQL_USER: ci4_user
+      MYSQL_PASSWORD: ci4_pass
+    ports:
+      - "3306:3306"
+    volumes:
+      - db-data:/var/lib/mysql
+    networks:
+      - ci4-network
+
+volumes:
+  db-data:
+
+networks:
+  ci4-network:
+    driver: bridge
