@@ -931,7 +931,7 @@
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
                       <img
-                        src="assets/img/departments-1.jpg"
+                        src="vendor/front-end/assets/img/medilab/img/departments-1.jpg"
                         alt="Berita Dinas Kesehatan Kabupaten Situbondo"
                         class="img-fluid"
                       />
@@ -955,7 +955,7 @@
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
                       <img
-                        src="assets/img/departments-2.jpg"
+                        src="vendor/front-end/assets/img/medilab/img/departments-2.jpg"
                         alt="Pengumuman Dinkes Situbondo"
                         class="img-fluid"
                       />
@@ -980,7 +980,7 @@
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
                       <img
-                        src="assets/img/departments-3.jpg"
+                        src="vendor/front-end/assets/img/medilab/img/departments-3.jpg"
                         alt="Pelayanan Publik Dinas Kesehatan Situbondo"
                         class="img-fluid"
                       />
@@ -1003,7 +1003,7 @@
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
                       <img
-                        src="assets/img/departments-4.jpg"
+                        src="vendor/front-end/assets/img/medilab/img/departments-4.jpg"
                         alt="Dokumen Dinkes Situbondo"
                         class="img-fluid"
                       />
@@ -1026,7 +1026,7 @@
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
                       <img
-                        src="assets/img/departments-5.jpg"
+                        src="vendor/front-end/assets/img/medilab/img/departments-5.jpg"
                         alt="Informasi Dinas Kesehatan Kabupaten Situbondo"
                         class="img-fluid"
                       />
@@ -1050,7 +1050,7 @@
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
                       <img
-                        src="assets/img/departments-1.jpg"
+                        src="vendor/front-end/assets/img/medilab/img/departments-1.jpg"
                         alt="Renstra Dinkes Situbondo"
                         class="img-fluid"
                       />
@@ -1074,7 +1074,7 @@
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
                       <img
-                        src="assets/img/departments-2.jpg"
+                        src="vendor/front-end/assets/img/medilab/img/departments-2.jpg"
                         alt="Pengumuman Dinkes Situbondo"
                         class="img-fluid"
                       />
@@ -1098,7 +1098,7 @@
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
                       <img
-                        src="assets/img/departments-3.jpg"
+                        src="vendor/front-end/assets/img/medilab/img/departments-3.jpg"
                         alt="Pelayanan Publik Dinas Kesehatan Situbondo"
                         class="img-fluid"
                       />
@@ -1122,7 +1122,7 @@
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
                       <img
-                        src="assets/img/departments-4.jpg"
+                        src="vendor/front-end/assets/img/medilab/img/departments-4.jpg"
                         alt="Dokumen Dinkes Situbondo"
                         class="img-fluid"
                       />
@@ -1146,7 +1146,7 @@
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
                       <img
-                        src="assets/img/departments-5.jpg"
+                        src="vendor/front-end/assets/img/medilab/img/departments-5.jpg"
                         alt="Informasi Dinas Kesehatan Kabupaten Situbondo"
                         class="img-fluid"
                       />
@@ -1440,177 +1440,6 @@
       </section>
       <!-- /Faq Section -->
 
-      <!-- Layanan Prioritas Section -->
-      <section id="layanan-prioritas" class="testimonials section">
-        <div class="container">
-          <div class="row align-items-center">
-            <div class="col-lg-5 info" data-aos="fade-up" data-aos-delay="100">
-              <h3>Layanan Prioritas</h3>
-              <p>
-                Gunakan menu cepat berikut untuk membuka kanal penting sesuai
-                sitemap: pengaduan, standar pelayanan, PPID, dan informasi
-                profil.
-              </p>
-            </div>
-
-            <div class="col-lg-7" data-aos="fade-up" data-aos-delay="200">
-              <div class="swiper init-swiper">
-                <script type="application/json" class="swiper-config">
-                  {
-                    "loop": true,
-                    "speed": 600,
-                    "autoplay": {
-                      "delay": 5000
-                    },
-                    "slidesPerView": "auto",
-                    "pagination": {
-                      "el": ".swiper-pagination",
-                      "type": "bullets",
-                      "clickable": true
-                    }
-                  }
-                </script>
-                <div class="swiper-wrapper">
-                  <div class="swiper-slide">
-                    <div class="testimonial-item">
-                      <div class="d-flex">
-                        <img
-                          src="assets/img/testimonials/testimonials-1.jpg"
-                          class="testimonial-img flex-shrink-0"
-                          alt="Pengaduan Dinas Kesehatan Kabupaten Situbondo"
-                        />
-                        <div>
-                          <h3>Pengaduan</h3>
-                          <h4>Formulir Online</h4>
-                          <div class="stars">
-                            <i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i>
-                          </div>
-                        </div>
-                      </div>
-                      <p>
-                        <i class="bi bi-quote quote-icon-left"></i>
-                        <span
-                          >Sampaikan aspirasi Anda melalui formulir
-                          <a href="#pengaduan">pengaduan</a> untuk memastikan
-                          tindak lanjut resmi.</span
-                        >
-                        <i class="bi bi-quote quote-icon-right"></i>
-                      </p>
-                    </div>
-                  </div>
-                  <!-- End testimonial item -->
-
-                  <div class="swiper-slide">
-                    <div class="testimonial-item">
-                      <div class="d-flex">
-                        <img
-                          src="assets/img/testimonials/testimonials-2.jpg"
-                          class="testimonial-img flex-shrink-0"
-                          alt="Standar Pelayanan Dinkes Situbondo"
-                        />
-                        <div>
-                          <h3>Standar Pelayanan</h3>
-                          <h4>Dokumen Layanan</h4>
-                          <div class="stars">
-                            <i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i>
-                          </div>
-                        </div>
-                      </div>
-                      <p>
-                        <i class="bi bi-quote quote-icon-left"></i>
-                        <span
-                          >Lihat alur layanan, persyaratan, dan estimasi waktu
-                          pada
-                          <a href="standar-pelayanan.html"
-                            >standar-pelayanan.html</a
-                          >.</span
-                        >
-                        <i class="bi bi-quote quote-icon-right"></i>
-                      </p>
-                    </div>
-                  </div>
-                  <!-- End testimonial item -->
-
-                  <div class="swiper-slide">
-                    <div class="testimonial-item">
-                      <div class="d-flex">
-                        <img
-                          src="assets/img/testimonials/testimonials-3.jpg"
-                          class="testimonial-img flex-shrink-0"
-                          alt="PPID Dinas Kesehatan Situbondo"
-                        />
-                        <div>
-                          <h3>PPID</h3>
-                          <h4>Akses Informasi</h4>
-                          <div class="stars">
-                            <i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i>
-                          </div>
-                        </div>
-                      </div>
-                      <p>
-                        <i class="bi bi-quote quote-icon-left"></i>
-                        <span
-                          >Ajukan permohonan data publik melalui
-                          <a href="ppid.html">ppid.html</a> beserta identitas
-                          lengkap.</span
-                        >
-                        <i class="bi bi-quote quote-icon-right"></i>
-                      </p>
-                    </div>
-                  </div>
-                  <!-- End testimonial item -->
-
-                  <div class="swiper-slide">
-                    <div class="testimonial-item">
-                      <div class="d-flex">
-                        <img
-                          src="assets/img/testimonials/testimonials-4.jpg"
-                          class="testimonial-img flex-shrink-0"
-                          alt="Profil Dinas Kesehatan Kabupaten Situbondo"
-                        />
-                        <div>
-                          <h3>Profil Dinas</h3>
-                          <h4>Data Organisasi</h4>
-                          <div class="stars">
-                            <i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i
-                            ><i class="bi bi-star-fill"></i>
-                          </div>
-                        </div>
-                      </div>
-                      <p>
-                        <i class="bi bi-quote quote-icon-left"></i>
-                        <span
-                          >Mulai dari sambutan kepala dinas hingga data
-                          puskesmas tersedia di bagian
-                          <a href="#profil">Profil Dinas</a>.</span
-                        >
-                        <i class="bi bi-quote quote-icon-right"></i>
-                      </p>
-                    </div>
-                  </div>
-                  <!-- End testimonial item -->
-                </div>
-                <div class="swiper-pagination"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
       <!-- /Testimonials Section -->
 
       <!-- Gallery Section -->
