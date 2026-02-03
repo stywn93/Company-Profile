@@ -271,7 +271,7 @@
       <!-- Hero Section -->
       <section id="hero" class="hero section light-background">
         <img
-          src="assets/img/hero-bg.jpg"
+          src="vendor/front-end/assets/img/medilab/img/hero-bg.jpg"
           alt="Dinas Kesehatan Kabupaten Situbondo - Dinkes Situbondo"
           data-aos="fade-in"
         />
@@ -388,7 +388,7 @@
               data-aos-delay="200"
             >
               <img
-                src="assets/img/about.jpg"
+                src="vendor/front-end/assets/img/medilab/img/about.jpg"
                 class="img-fluid"
                 alt="Dinas Kesehatan Kabupaten Situbondo - Pelayanan Kesehatan Masyarakat"
               />
@@ -1178,7 +1178,7 @@
               <div class="team-member d-flex align-items-start">
                 <div class="pic">
                   <img
-                    src="assets/img/doctors/doctors-1.jpg"
+                    src="vendor/front-end/assets/img/medilab/img/doctors/doctors-1.jpg"
                     class="img-fluid"
                     alt="Galeri Foto Dinas Kesehatan Kabupaten Situbondo"
                   />
@@ -1203,7 +1203,7 @@
               <div class="team-member d-flex align-items-start">
                 <div class="pic">
                   <img
-                    src="assets/img/doctors/doctors-2.jpg"
+                    src="vendor/front-end/assets/img/medilab/img/doctors/doctors-2.jpg"
                     class="img-fluid"
                     alt="Galeri Foto Sekretariat Dinkes Situbondo"
                   />
@@ -1228,7 +1228,7 @@
               <div class="team-member d-flex align-items-start">
                 <div class="pic">
                   <img
-                    src="assets/img/doctors/doctors-3.jpg"
+                    src="vendor/front-end/assets/img/medilab/img/doctors/doctors-3.jpg"
                     class="img-fluid"
                     alt="Galeri Kesehatan Masyarakat Dinas Kesehatan Situbondo"
                   />
@@ -1252,7 +1252,7 @@
               <div class="team-member d-flex align-items-start">
                 <div class="pic">
                   <img
-                    src="assets/img/doctors/doctors-4.jpg"
+                    src="vendor/front-end/assets/img/medilab/img/doctors/doctors-4.jpg"
                     class="img-fluid"
                     alt="Pencegahan dan Pengendalian Penyakit Dinkes Situbondo"
                   />
@@ -1279,7 +1279,7 @@
               <div class="team-member d-flex align-items-start">
                 <div class="pic">
                   <img
-                    src="assets/img/departments-4.jpg"
+                    src="vendor/front-end/assets/img/medilab/img/departments-4.jpg"
                     class="img-fluid"
                     alt="Pelayanan Kesehatan Dinas Kesehatan Kabupaten Situbondo"
                   />
@@ -1304,7 +1304,7 @@
               <div class="team-member d-flex align-items-start">
                 <div class="pic">
                   <img
-                    src="assets/img/departments-5.jpg"
+                    src="vendor/front-end/assets/img/medilab/img/departments-5.jpg"
                     class="img-fluid"
                     alt="Sumber Daya Manusia Dinkes Situbondo"
                   />
@@ -1631,12 +1631,12 @@
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
                 <a
-                  href="assets/img/gallery/gallery-1.jpg"
+                  href="vendor/front-end/assets/img/medilab/img/gallery/gallery-1.jpg"
                   class="glightbox"
                   data-gallery="images-gallery"
                 >
                   <img
-                    src="assets/img/gallery/gallery-1.jpg"
+                    src="vendor/front-end/assets/img/medilab/img/gallery/gallery-1.jpg"
                     alt="Galeri Dinas Kesehatan Kabupaten Situbondo"
                     class="img-fluid"
                   />
@@ -1648,12 +1648,12 @@
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
                 <a
-                  href="assets/img/gallery/gallery-2.jpg"
+                  href="vendor/front-end/assets/img/medilab/img/gallery/gallery-2.jpg"
                   class="glightbox"
                   data-gallery="images-gallery"
                 >
                   <img
-                    src="assets/img/gallery/gallery-2.jpg"
+                    src="vendor/front-end/assets/img/medilab/img/gallery/gallery-2.jpg"
                     alt="Galeri Dinkes Situbondo"
                     class="img-fluid"
                   />
@@ -1665,12 +1665,12 @@
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
                 <a
-                  href="assets/img/gallery/gallery-3.jpg"
+                  href="vendor/front-end/assets/img/medilab/img/gallery/gallery-3.jpg"
                   class="glightbox"
                   data-gallery="images-gallery"
                 >
                   <img
-                    src="assets/img/gallery/gallery-3.jpg"
+                    src="vendor/front-end/assets/img/medilab/img/gallery/gallery-3.jpg"
                     alt="Kegiatan Kesehatan Situbondo"
                     class="img-fluid"
                   />
@@ -1682,12 +1682,12 @@
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
                 <a
-                  href="assets/img/gallery/gallery-4.jpg"
+                  href="vendor/front-end/assets/img/medilab/img/gallery/gallery-4.jpg"
                   class="glightbox"
                   data-gallery="images-gallery"
                 >
                   <img
-                    src="assets/img/gallery/gallery-4.jpg"
+                    src="vendor/front-end/assets/img/medilab/img/gallery/gallery-4.jpg"
                     alt="Dokumentasi Dinas Kesehatan Situbondo"
                     class="img-fluid"
                   />
@@ -1699,12 +1699,12 @@
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
                 <a
-                  href="assets/img/gallery/gallery-5.jpg"
+                  href="vendor/front-end/assets/img/medilab/img/gallery/gallery-5.jpg"
                   class="glightbox"
                   data-gallery="images-gallery"
                 >
                   <img
-                    src="assets/img/gallery/gallery-5.jpg"
+                    src="vendor/front-end/assets/img/medilab/img/gallery/gallery-5.jpg"
                     alt="Layanan Kesehatan Dinkes Situbondo"
                     class="img-fluid"
                   />
@@ -1716,12 +1716,12 @@
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
                 <a
-                  href="assets/img/gallery/gallery-6.jpg"
+                  href="vendor/front-end/assets/img/medilab/img/gallery/gallery-6.jpg"
                   class="glightbox"
                   data-gallery="images-gallery"
                 >
                   <img
-                    src="assets/img/gallery/gallery-6.jpg"
+                    src="vendor/front-end/assets/img/medilab/img/gallery/gallery-6.jpg"
                     alt="Aktivitas Dinas Kesehatan Kabupaten Situbondo"
                     class="img-fluid"
                   />
@@ -1733,12 +1733,12 @@
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
                 <a
-                  href="assets/img/gallery/gallery-7.jpg"
+                  href="vendor/front-end/assets/img/medilab/img/gallery/gallery-7.jpg"
                   class="glightbox"
                   data-gallery="images-gallery"
                 >
                   <img
-                    src="assets/img/gallery/gallery-7.jpg"
+                    src="vendor/front-end/assets/img/medilab/img/gallery/gallery-7.jpg"
                     alt="Program Kesehatan Masyarakat Situbondo"
                     class="img-fluid"
                   />
@@ -1750,12 +1750,12 @@
             <div class="col-lg-3 col-md-4">
               <div class="gallery-item">
                 <a
-                  href="assets/img/gallery/gallery-8.jpg"
+                  href="vendor/front-end/assets/img/medilab/img/gallery/gallery-8.jpg"
                   class="glightbox"
                   data-gallery="images-gallery"
                 >
                   <img
-                    src="assets/img/gallery/gallery-8.jpg"
+                    src="vendor/front-end/assets/img/medilab/img/gallery/gallery-8.jpg"
                     alt="Kegiatan Pelayanan Dinkes Situbondo"
                     class="img-fluid"
                   />
