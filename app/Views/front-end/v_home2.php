@@ -218,7 +218,7 @@
     <main class="main">
       <!-- Hero Section -->
       <section id="hero" class="hero section light-background">
-        <img src="vendor/front-end/assets/img/medilab/img/hero-bg.jpg" alt="Dinas Kesehatan Kabupaten Situbondo - Dinkes Situbondo" data-aos="fade-in"/>
+        <img src="vendor/front-end/assets/img/dinkes-ambulans.jpg" alt="Dinas Kesehatan Kabupaten Situbondo - Dinkes Situbondo" data-aos="fade-in"/>
 
         <div class="container position-relative">
           <div
@@ -226,10 +226,10 @@
             data-aos="fade-down"
             data-aos-delay="100"
           >
-            <h2>
+            <h2 style="color:#ffffff;">
               Selamat Datang di Portal Dinas Kesehatan Kabupaten Situbondo
             </h2>
-            <p>
+            <p style="color:#ffffff;">
               Portal resmi Dinkes Situbondo menyediakan informasi kesehatan
               Situbondo, profil organisasi, pelayanan publik, dokumen, galeri
               foto dan kanal pengaduan masyarakat Kabupaten Situbondo.
@@ -242,12 +242,10 @@
               <div class="why-box" data-aos="zoom-out" data-aos-delay="200">
                 <h3>Ringkasan Portal</h3>
                 <p>
-                  Telusuri profil Dinas Kesehatan, akses dokumen strategis,
-                  lihat galeri kegiatan, serta sampaikan aspirasi melalui kanal
-                  pengaduan daring yang terhubung dengan PPID.
+                  Telusuri profil Dinas Kesehatan Situbondo, layanan utama, berbagai inovasi, berita terkini, serta kanal aduan masyarakat untuk mendukung peningkatan kualitas pelayanan kesehatan daerah.
                 </p>
                 <div class="text-center">
-                  <a href="#profil" class="more-btn"><span>Buka Profil</span> <i class="bi bi-chevron-right"></i></a>
+                  <a href="#profil" class="more-btn"><span>Buka Selengkapnya</span> <i class="bi bi-chevron-right"></i></a>
                 </div>
               </div>
             </div>
@@ -263,11 +261,9 @@
                       data-aos-delay="300"
                     >
                       <i class="bi bi-clipboard-data"></i>
-                      <h4>Profil Organisasi</h4>
+                      <h4>Layanan Utama</h4>
                       <p>
-                        Kenali struktur organisasi, tugas fungsi, statistik
-                        pegawai, serta inovasi layanan Dinas Kesehatan Kabupaten
-                        Situbondo.
+                        Dinas Kesehatan Situbondo melayani informasi program BERANTAS, perizinan industri rumah tangga, kesehatan lingkungan, dan Rumah Pemulihan Gizi untuk meningkatkan kesehatan masyarakat.
                       </p>
                       <a href="#profil" class="stretched-link">Detail Profil</a>
                     </div>
@@ -325,7 +321,7 @@
               data-aos-delay="200"
             >
               <img
-                src="vendor/front-end/assets/img/medilab/img/about.jpg"
+                src="vendor/front-end/assets/img/gedung-dinkes.jpg"
                 class="img-fluid"
                 alt="Dinas Kesehatan Kabupaten Situbondo - Pelayanan Kesehatan Masyarakat"
               />
