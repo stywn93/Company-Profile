@@ -1,0 +1,159 @@
+
+ {
+  "name": "dinkes.situbondokab.go.id",
+  "children": [
+    {
+      "name": "Beranda",
+      "path": "index.html"
+    },
+    {
+      "name": "Profil",
+      "children": [
+        {
+          "name": "Sambutan Kepala Dinas",
+          "path": "profil-sambutan-kepala-dinas.html"
+        },
+        {
+          "name": "Stuktur Organisasi",
+          "path": "profil-stuktur-organisasi.html"
+        },
+        {
+          "name": "Statistik Pegawai",
+          "path": "profil-statistik-pegawai.html"
+        },
+        {
+          "name": "Tugas dan Fungsi",
+          "path": "profil-tugas-dan-fungsi.html"
+        },
+        {
+          "name": "Inovasi",
+          "path": "profil-inovasi.html"
+        },
+        {
+          "name": "Selayang Pandang Dinkes",
+          "path": "profil-selayang-pandang-dinkes.html"
+        },
+        {
+          "name": "Bidang",
+          "children": [
+            {
+              "name": "Sekretariat",
+              "path": "profil-bidang-sekretariat.html"
+            },
+            {
+              "name": "Kesehatan Masyarakat",
+              "path": "profil-bidang-kesehatan-masyarakat.html"
+            },
+            {
+              "name": "Pencegahan dan Pengendalian Penyakit",
+              "path": "profil-bidang-pencegahan-dan-pengendalian-penyakit.html"
+            },
+            {
+              "name": "Pelayanan Kesehatan",
+              "path": "profil-bidang-pelayanan-kesehatan.html"
+            },
+            {
+              "name": "Sumber Daya Manusia",
+              "path": "profil-bidang-sumber-daya-manusia.html"
+            }
+          ]
+        },
+        {
+          "name": "Puskesmas",
+          "path": "profil-puskesmas.html"
+        }
+      ]
+    },
+    {
+      "name": "Informasi",
+      "children": [
+        {
+          "name": "Berita",
+          "path": "informasi-berita.html"
+        },
+        {
+          "name": "Pengumuman",
+          "path": "informasi-pengumuman.html"
+        },
+        {
+          "name": "Pelayanan Publik",
+          "path": "informasi-pelayanan-publik.html"
+        },
+        {
+          "name": "Dokumen",
+          "children": [
+            {
+              "name": "Lakip",
+              "path": "informasi-dokumen-lakip.html"
+            },
+            {
+              "name": "Renja",
+              "path": "informasi-dokumen-renja.html"
+            },
+            {
+              "name": "Renstra",
+              "path": "informasi-dokumen-renstra.html"
+            },
+            {
+              "name": "Perubahan Renja",
+              "path": "informasi-dokumen-perubahan-renja.html"
+            },
+            {
+              "name": "Perjanjian Kinerja",
+              "path": "informasi-dokumen-perjanjian-kinerja.html"
+            },
+            {
+              "name": "Profil Kesehatan",
+              "path": "informasi-dokumen-profil-kesehatan.html"
+            },
+            {
+              "name": "Dokumen Lain-lain",
+              "path": "informasi-dokumen-dokumen-lain-lain.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Galeri Foto",
+      "children": [
+        {
+          "name": "Semua Foto",
+          "path": "galeri-foto-semua-foto.html"
+        },
+        {
+          "name": "Sekretariat",
+          "path": "galeri-foto-sekretariat.html"
+        },
+        {
+          "name": "Kesehatan Masyarakat",
+          "path": "galeri-foto-kesehatan-masyarakat.html"
+        },
+        {
+          "name": "Pencegahan dan Pengendalian Penyakit",
+          "path": "galeri-foto-pencegahan-dan-pengendalian-penyakit.html"
+        },
+        {
+          "name": "Pelayanan Kesehatan",
+          "path": "galeri-foto-pelayanan-kesehatan.html"
+        },
+        {
+          "name": "Sumber Daya Manusia",
+          "path": "galeri-foto-sumber-daya-manusia.html"
+        }
+      ]
+    },
+    {
+      "name": "Pengaduan",
+      "path": "pengaduan.html"
+    },
+    {
+      "name": "STANDAR PELAYANAN",
+      "path": "standar-pelayanan.html"
+    },
+    {
+      "name": "PPID",
+      "path": "ppid.html"
+    }
+  ]
+}

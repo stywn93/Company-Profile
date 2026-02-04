@@ -75,7 +75,16 @@
       href="vendor/front-end/assets/vendor/bootstrap-icons/bootstrap-icons.css"
       rel="stylesheet"
     />
-    <!-- (Vendor CSS lain tetap, jika ingin pakai, pastikan path-nya benar) -->
+     <link href="vendor/front-end/assets/vendor/aos/aos.css" rel="stylesheet" />
+    <link
+      href="vendor/front-end/assets/vendor/fontawesome-free/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="vendor/front-end/assets/vendor/glightbox/css/glightbox.min.css"
+      rel="stylesheet"
+    />
+    <link href="vendor/front-end/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
 
     <!-- Main CSS File -->
     <link href="vendor/front-end/assets/css/main.css" rel="stylesheet" />
@@ -191,71 +200,10 @@
           <nav id="navmenu" class="navmenu">
             <ul>
               <li><a href="#hero" class="active">Beranda</a></li>
-              <li class="dropdown">
-                <a href="#"
-                  ><span>Profil</span>
-                  <i class="bi bi-chevron-down toggle-dropdown"></i
-                ></a>
-                <ul>
-                  <li>
-                    <a href="profil-stuktur-organisasi.html"
-                      >Struktur Organisasi</a
-                    >
-                  </li>
-                  <li><a href="profil-inovasi.html">Inovasi</a></li>
-                </ul>
-              </li>
-              <li class="dropdown">
-                <a href="#"
-                  ><span>Informasi</span>
-                  <i class="bi bi-chevron-down toggle-dropdown"></i
-                ></a>
-                <ul>
-                  <li><a href="informasi-berita.html">Berita</a></li>
-                  <li><a href="informasi-pengumuman.html">Pengumuman</a></li>
-                  <li>
-                    <a href="informasi-pelayanan-publik.html"
-                      >Pelayanan Publik</a
-                    >
-                  </li>
-                  <li class="dropdown">
-                    <a href="#"
-                      ><span>Dokumen</span>
-                      <i class="bi bi-chevron-down toggle-dropdown"></i
-                    ></a>
-                    <ul>
-                      <li><a href="informasi-dokumen-lakip.html">Lakip</a></li>
-                      <li><a href="informasi-dokumen-renja.html">Renja</a></li>
-                      <li>
-                        <a href="informasi-dokumen-renstra.html">Renstra</a>
-                      </li>
-                      <li>
-                        <a href="informasi-dokumen-perubahan-renja.html"
-                          >Perubahan Renja</a
-                        >
-                      </li>
-                      <li>
-                        <a href="informasi-dokumen-perjanjian-kinerja.html"
-                          >Perjanjian Kinerja</a
-                        >
-                      </li>
-                      <li>
-                        <a href="informasi-dokumen-profil-kesehatan.html"
-                          >Profil Kesehatan</a
-                        >
-                      </li>
-                      <li>
-                        <a href="informasi-dokumen-dokumen-lain-lain.html"
-                          >Dokumen Lain-lain</a
-                        >
-                      </li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              <li><a href="#pengaduan">Pengaduan</a></li>
-              <li><a href="standar-pelayanan.html">STANDAR PELAYANAN</a></li>
-              <li><a href="ppid.html">PPID</a></li>
+              <li><a href="#">Layanan Utama</a>
+              <li><a href="#inovasi">Inovasi</a></li>
+              <li><a href="#berita">Berita</a></li>
+              <li><a href="#dokumen">Dokumen</a></li>
             </ul>
             <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
           </nav>
@@ -270,11 +218,7 @@
     <main class="main">
       <!-- Hero Section -->
       <section id="hero" class="hero section light-background">
-        <img
-          src="vendor/front-end/assets/img/medilab/img/hero-bg.jpg"
-          alt="Dinas Kesehatan Kabupaten Situbondo - Dinkes Situbondo"
-          data-aos="fade-in"
-        />
+        <img src="vendor/front-end/assets/img/medilab/img/hero-bg.jpg" alt="Dinas Kesehatan Kabupaten Situbondo - Dinkes Situbondo" data-aos="fade-in"/>
 
         <div class="container position-relative">
           <div
@@ -303,9 +247,7 @@
                   pengaduan daring yang terhubung dengan PPID.
                 </p>
                 <div class="text-center">
-                  <a href="#profil" class="more-btn"
-                    ><span>Buka Profil</span> <i class="bi bi-chevron-right"></i
-                  ></a>
+                  <a href="#profil" class="more-btn"><span>Buka Profil</span> <i class="bi bi-chevron-right"></i></a>
                 </div>
               </div>
             </div>
@@ -344,9 +286,7 @@
                         Akses berita, pengumuman, pelayanan publik, dan dokumen
                         perencanaan secara transparan.
                       </p>
-                      <a href="#informasi" class="stretched-link"
-                        >Lihat Informasi</a
-                      >
+                      <a href="#informasi" class="stretched-link">Lihat Informasi</a>
                     </div>
                   </div>
                   <!-- End Icon Box -->
@@ -363,9 +303,6 @@
                         Dokumentasi kegiatan lintas bidang mulai dari
                         sekretariat hingga pelayanan kesehatan.
                       </p>
-                      <a href="#galeri" class="stretched-link"
-                        >Jelajah Galeri</a
-                      >
                     </div>
                   </div>
                   <!-- End Icon Box -->
@@ -1191,9 +1128,7 @@
                   </p>
                   <a
                     href="galeri-foto-semua-foto.html"
-                    class="btn btn-link px-0"
-                    >Buka Galeri</a
-                  >
+                    class="btn btn-link px-0">Buka Galeri</a>
                 </div>
               </div>
             </div>
@@ -1217,9 +1152,7 @@
                   </p>
                   <a
                     href="galeri-foto-sekretariat.html"
-                    class="btn btn-link px-0"
-                    >Lihat Foto</a
-                  >
+                    class="btn btn-link px-0">Lihat Foto</a>
                 </div>
               </div>
             </div>
@@ -1241,9 +1174,7 @@
                   </p>
                   <a
                     href="galeri-foto-kesehatan-masyarakat.html"
-                    class="btn btn-link px-0"
-                    >Lihat Foto</a
-                  >
+                    class="btn btn-link px-0">Lihat Foto</a>
                 </div>
               </div>
             </div>
@@ -1268,9 +1199,7 @@
                   </p>
                   <a
                     href="galeri-foto-pencegahan-dan-pengendalian-penyakit.html"
-                    class="btn btn-link px-0"
-                    >Lihat Foto</a
-                  >
+                    class="btn btn-link px-0">Lihat Foto</a>
                 </div>
               </div>
             </div>
@@ -1293,9 +1222,7 @@
                   </p>
                   <a
                     href="galeri-foto-pelayanan-kesehatan.html"
-                    class="btn btn-link px-0"
-                    >Lihat Foto</a
-                  >
+                    class="btn btn-link px-0">Lihat Foto</a>
                 </div>
               </div>
             </div>
@@ -1318,9 +1245,7 @@
                   </p>
                   <a
                     href="galeri-foto-sumber-daya-manusia.html"
-                    class="btn btn-link px-0"
-                    >Lihat Foto</a
-                  >
+                    class="btn btn-link px-0">Lihat Foto</a>
                 </div>
               </div>
             </div>
@@ -1349,13 +1274,7 @@
                   <h3>Di mana saya bisa melihat standar pelayanan resmi?</h3>
                   <div class="faq-content">
                     <p>
-                      Seluruh standar pelayanan Dinas Kesehatan tersedia pada
-                      laman
-                      <a href="standar-pelayanan.html"
-                        >standar-pelayanan.html</a
-                      >
-                      lengkap dengan jenis layanan, persyaratan, dan estimasi
-                      waktu.
+                      Seluruh standar pelayanan Dinas Kesehatan tersedia pada laman Standar Pelayanan lengkap dengan jenis layanan, persyaratan, dan estimasi waktu.
                     </p>
                   </div>
                   <i class="faq-toggle bi bi-chevron-right"></i>
@@ -1366,10 +1285,7 @@
                   <h3>Bagaimana cara mengajukan permohonan informasi PPID?</h3>
                   <div class="faq-content">
                     <p>
-                      Silakan isi formulir pada
-                      <a href="ppid.html">ppid.html</a> atau kirimkan melalui
-                      email resmi PPID. Sertakan identitas dan rincian informasi
-                      yang diminta.
+                      Silakan isi formulir pada Halaman PPID atau kirimkan melalui email resmi PPID. Sertakan identitas dan rincian informasi yang diminta.
                     </p>
                   </div>
                   <i class="faq-toggle bi bi-chevron-right"></i>
@@ -1380,9 +1296,7 @@
                   <h3>Apakah ada batas waktu pelayanan informasi?</h3>
                   <div class="faq-content">
                     <p>
-                      Sesuai regulasi, permohonan informasi ditindaklanjuti
-                      maksimal 10 hari kerja dan dapat diperpanjang 7 hari
-                      dengan pemberitahuan resmi.
+                      Sesuai regulasi, permohonan informasi ditindaklanjuti maksimal 10 hari kerja dan dapat diperpanjang 7 hari dengan pemberitahuan resmi.
                     </p>
                   </div>
                   <i class="faq-toggle bi bi-chevron-right"></i>
@@ -1395,9 +1309,7 @@
                   </h3>
                   <div class="faq-content">
                     <p>
-                      Pengaduan dapat dipantau melalui kontak yang tercantum
-                      pada formulir. Tim PPID akan menghubungi pelapor jika
-                      diperlukan klarifikasi lanjutan.
+                      Pengaduan dapat dipantau melalui kontak yang tercantum pada formulir. Tim PPID akan menghubungi pelapor jika diperlukan klarifikasi lanjutan.
                     </p>
                   </div>
                   <i class="faq-toggle bi bi-chevron-right"></i>
@@ -1408,9 +1320,7 @@
                   <h3>Apa saja dokumen yang tersedia di kanal dokumen?</h3>
                   <div class="faq-content">
                     <p>
-                      Portal menyediakan Lakip, Renja, Renstra, Perubahan Renja,
-                      Perjanjian Kinerja, Profil Kesehatan, dan dokumen lainnya
-                      sesuai daftar pada sitemap.
+                      Portal menyediakan Lakip, Renja, Renstra, Perubahan Renja, Perjanjian Kinerja, Profil Kesehatan, dan dokumen lainnya sesuai daftar pada sitemap.
                     </p>
                   </div>
                   <i class="faq-toggle bi bi-chevron-right"></i>
@@ -1424,9 +1334,7 @@
                   </h3>
                   <div class="faq-content">
                     <p>
-                      Hubungi sekretariat Dinas Kesehatan melalui email
-                      dinkes@situbondokab.go.id atau telepon 0822 65000 119
-                      sambil mencantumkan detail kendala.
+                      Hubungi sekretariat Dinas Kesehatan melalui email dinkes@situbondokab.go.id atau telepon 0822 65000 119 sambil mencantumkan detail kendala.
                     </p>
                   </div>
                   <i class="faq-toggle bi bi-chevron-right"></i>
@@ -1448,9 +1356,7 @@
         <div class="container section-title" data-aos="fade-up">
           <h2>Galeri Dokumentasi</h2>
           <p>
-            Dokumentasi kegiatan dan aktivitas Dinas Kesehatan Kabupaten
-            Situbondo dalam memberikan pelayanan kesehatan untuk masyarakat
-            Situbondo.
+            Dokumentasi kegiatan dan aktivitas Dinas Kesehatan Kabupaten Situbondo dalam memberikan pelayanan kesehatan untuk masyarakat Situbondo.
           </p>
         </div>
         <!-- End Section Title -->
@@ -1832,15 +1738,6 @@
           <strong>Dinkes Situbondo</strong> - Portal Resmi Kesehatan Masyarakat
           Kabupaten Situbondo
         </p>
-        <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you've purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-          Designed by
-          <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed by
-          <a href="https://themewagon.com">ThemeWagon</a>
-        </div>
       </div>
     </footer>
 
@@ -1849,15 +1746,8 @@
       href="#"
       id="scroll-top"
       class="scroll-top d-flex align-items-center justify-content-center"
-      ><i class="bi bi-arrow-up-short"></i
-    ></a>
-
-    <!-- Preloader -->
-    <div id="preloader"></div>
-
-    <!-- Bootstrap JS from vendor -->
-    <script src="vendor/front-end/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="vendor/front-end/assets/vendor/php-email-form/validate.js"></script>
+      ><i class="bi bi-arrow-up-short"></i></a>
+              <div id="preloader"></div>
     <script src="vendor/front-end/assets/vendor/aos/aos.js"></script>
     <script src="vendor/front-end/assets/vendor/glightbox/js/glightbox.min.js"></script>
     <script src="vendor/front-end/assets/vendor/purecounter/purecounter_vanilla.js"></script>
@@ -1865,70 +1755,5 @@
 
     <!-- Main JS File -->
     <script src="vendor/front-end/assets/js/medilab.js"></script>
-    <script>
-      document.addEventListener("DOMContentLoaded", () => {
-        fetch("sitemap.json")
-          .then((response) => response.json())
-          .then((data) => {
-            const navMenu = document.getElementById("navmenu");
-            let ul = navMenu.querySelector("ul");
-            if (!ul) {
-              ul = document.createElement("ul");
-            } else {
-              ul.innerHTML = "";
-            }
-            const anchorOverrides = {
-              "index.html": "#hero",
-              "pengaduan.html": "#pengaduan",
-            };
-
-            function resolveHref(item) {
-              if (!item.path) {
-                return "#";
-              }
-              return anchorOverrides[item.path] || item.path;
-            }
-
-            function createMenuItem(item) {
-              const li = document.createElement("li");
-              if (item.children) {
-                li.classList.add("dropdown");
-                const a = document.createElement("a");
-                a.href = resolveHref(item);
-                a.innerHTML = `<span>${item.name}</span> <i class="bi bi-chevron-down toggle-dropdown"></i>`;
-                li.appendChild(a);
-                const subUl = document.createElement("ul");
-                item.children.forEach((child) => {
-                  subUl.appendChild(createMenuItem(child));
-                });
-                li.appendChild(subUl);
-              } else {
-                const a = document.createElement("a");
-                a.href = resolveHref(item);
-                a.textContent = item.name;
-                if (item.path === "index.html") {
-                  a.classList.add("active");
-                }
-                li.appendChild(a);
-              }
-              return li;
-            }
-
-            data.children.forEach((item) => {
-              ul.appendChild(createMenuItem(item));
-            });
-
-            const toggle = navMenu.querySelector(".mobile-nav-toggle");
-            if (toggle && !ul.parentElement) {
-              navMenu.insertBefore(ul, toggle);
-            } else if (!ul.parentElement) {
-              navMenu.appendChild(ul);
-            }
-          })
-          .catch(() => {
-            // fallback not needed; nav already handled statically if desired
-          });
-      });
-    </script>
   </body>
 </html>
