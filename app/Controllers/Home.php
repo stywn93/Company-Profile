@@ -38,25 +38,29 @@ class Home extends BaseController
 
     public function index()
     {
-        $setting = $this->setting->daftar();
+        // $setting = $this->setting->daftar();
 
-        $data = [
-            'title'     => $setting->nama_perusahaan,
-            'isi'       => 'front-end/v_home',
-            'layanan'   => $this->layanan->daftar(),
-            'setting'   => $setting,
-            'berita'    => $this->berita->recent_berita(),
-            'staff'     => $this->staff->daftar(),
-            'portfolio' => $this->portfolio->daftar(),
-            'client'    => $this->client->daftar(),
-            'image'     => $setting->image,
-            'client_total' => $this->dashboard->client()->total,
-            'staff_total' => $this->dashboard->staff()->total,
-        ];
+        // $data = [
+        //     'title'     => $setting->nama_perusahaan,
+        //     'isi'       => 'front-end/v_home',
+        //     'layanan'   => $this->layanan->daftar(),
+        //     'setting'   => $setting,
+        //     'berita'    => $this->berita->recent_berita(),
+        //     'staff'     => $this->staff->daftar(),
+        //     'portfolio' => $this->portfolio->daftar(),
+        //     'client'    => $this->client->daftar(),
+        //     'image'     => $setting->image,
+        //     'client_total' => $this->dashboard->client()->total,
+        //     'staff_total' => $this->dashboard->staff()->total,
+        // ];
 
         // return view('front-end/layout/v_wrapper', $data);
-        return view('front-end/v_home2', $data);
+        return view('front-end/v_home2');
         
+    }
+
+    function layanan() {
+        return view('front-end/v_layanan');
     }
 
     public function blog()

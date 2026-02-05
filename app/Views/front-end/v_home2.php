@@ -6,14 +6,9 @@
     <title>
       Dinas Kesehatan Kabupaten Situbondo | Dinkes Situbondo - Portal Resmi
     </title>
+    <meta name="description" content="Portal resmi Dinas Kesehatan Kabupaten Situbondo (Dinkes Situbondo). Akses informasi kesehatan Situbondo, profil organisasi, layanan publik, pengaduan, PPID, dan dokumentasi kegiatan kesehatan masyarakat."/>
     <meta
-      name="description"
-      content="Portal resmi Dinas Kesehatan Kabupaten Situbondo (Dinkes Situbondo). Akses informasi kesehatan Situbondo, profil organisasi, layanan publik, pengaduan, PPID, dan dokumentasi kegiatan kesehatan masyarakat."
-    />
-    <meta
-      name="keywords"
-      content="Dinas Kesehatan Kabupaten Situbondo, Dinkes Situbondo, Kesehatan Situbondo, dinas kesehatan situbondo, dinkes situbondo, informasi kesehatan situbondo, kesehatan masyarakat situbondo, pelayanan kesehatan situbondo"
-    />
+      name="keywords" content="Dinas Kesehatan Kabupaten Situbondo, Dinkes Situbondo, Kesehatan Situbondo, dinas kesehatan situbondo, dinkes situbondo, informasi kesehatan situbondo, kesehatan masyarakat situbondo, pelayanan kesehatan situbondo"/>
     <meta name="author" content="Dinas Kesehatan Kabupaten Situbondo" />
     <meta name="robots" content="index, follow" />
     <meta name="language" content="Indonesian" />
@@ -23,35 +18,17 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://dinkes.situbondokab.go.id/" />
-    <meta
-      property="og:title"
-      content="Dinas Kesehatan Kabupaten Situbondo | Dinkes Situbondo"
-    />
-    <meta
-      property="og:description"
-      content="Portal resmi Dinas Kesehatan Kabupaten Situbondo. Informasi kesehatan Situbondo, layanan publik, profil organisasi, dan pengaduan masyarakat."
-    />
-    <meta
-      property="og:image"
-      content="https://dinkes.situbondokab.go.id/assets/img/logo.png"
-    />
+    <meta property="og:title" content="Dinas Kesehatan Kabupaten Situbondo | Dinkes Situbondo"/>
+    <meta property="og:description" content="Portal resmi Dinas Kesehatan Kabupaten Situbondo. Informasi kesehatan Situbondo, layanan publik, profil organisasi, dan pengaduan masyarakat."/>
+    <meta property="og:image" content="https://dinkes.situbondokab.go.id/assets/img/logo.png"/>
     <meta property="og:locale" content="id_ID" />
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:url" content="https://dinkes.situbondokab.go.id/" />
-    <meta
-      property="twitter:title"
-      content="Dinas Kesehatan Kabupaten Situbondo | Dinkes Situbondo"
-    />
-    <meta
-      property="twitter:description"
-      content="Portal resmi Dinas Kesehatan Kabupaten Situbondo. Informasi kesehatan Situbondo, layanan publik, dan pengaduan masyarakat."
-    />
-    <meta
-      property="twitter:image"
-      content="https://dinkes.situbondokab.go.id/assets/img/logo.png"
-    />
+    <meta property="twitter:title" content="Dinas Kesehatan Kabupaten Situbondo | Dinkes Situbondo"/>
+    <meta property="twitter:description" content="Portal resmi Dinas Kesehatan Kabupaten Situbondo. Informasi kesehatan Situbondo, layanan publik, dan pengaduan masyarakat."/>
+    <meta property="twitter:image" content="https://dinkes.situbondokab.go.id/assets/img/logo.png"/>
 
     <!-- Canonical URL -->
     <link rel="canonical" href="https://dinkes.situbondokab.go.id/" />
@@ -63,27 +40,15 @@
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"/>
 
     <!-- Vendor CSS Files -->
     <!-- Bootstrap CSS from vendor -->
     <link href="vendor/front-end/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-    <link
-      href="vendor/front-end/assets/vendor/bootstrap-icons/bootstrap-icons.css"
-      rel="stylesheet"
-    />
-     <link href="vendor/front-end/assets/vendor/aos/aos.css" rel="stylesheet" />
-    <link
-      href="vendor/front-end/assets/vendor/fontawesome-free/css/all.min.css"
-      rel="stylesheet"
-    />
-    <link
-      href="vendor/front-end/assets/vendor/glightbox/css/glightbox.min.css"
-      rel="stylesheet"
-    />
+    <link href="vendor/front-end/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet"/>
+    <link href="vendor/front-end/assets/vendor/aos/aos.css" rel="stylesheet" />
+    <link href="vendor/front-end/assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet"/>
+    <link href="vendor/front-end/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet"/>
     <link href="vendor/front-end/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
 
     <!-- Main CSS File -->
@@ -150,70 +115,10 @@
       }
     </script>
 
-    <!-- =======================================================
-  * Template Name: Medilab
-  * Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-  * Updated: Aug 07 2024 with Bootstrap v5.3.3
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
   </head>
 
   <body class="index-page">
-    <header id="header" class="header sticky-top">
-      <div class="topbar d-flex align-items-center">
-        <div
-          class="container d-flex justify-content-center justify-content-md-between"
-        >
-          <div class="contact-info d-flex align-items-center">
-            <i class="bi bi-envelope d-flex align-items-center"
-              ><a href="mailto:dinkes@situbondokab.go.id"
-                >dinkes@situbondokab.go.id</a
-              ></i
-            >
-            <i class="bi bi-phone d-flex align-items-center ms-4"
-              ><span>0822 65000 119</span></i
-            >
-          </div>
-          <div class="social-links d-none d-md-flex align-items-center">
-            <a href="https://www.facebook.com/dinaskesehatansitubondo"
-              ><i class="bi bi-facebook"></i
-            ></a>
-            <a href="https://www.instagram.com/dinkes_situbondo"
-              ><i class="bi bi-instagram"></i
-            ></a>
-          </div>
-        </div>
-      </div>
-      <!-- End Top Bar -->
-
-      <div class="branding d-flex align-items-center">
-        <div
-          class="container position-relative d-flex align-items-center justify-content-between"
-        >
-          <a href="index.html" class="logo d-flex align-items-center me-auto">
-            <!-- Uncomment the line below if you also wish to use an image logo -->
-            <!-- <img src="assets/img/logo.png" alt="Logo Dinas Kesehatan Kabupaten Situbondo"> -->
-            <h1 class="sitename">Dinkes Situbondo</h1>
-          </a>
-
-          <nav id="navmenu" class="navmenu">
-            <ul>
-              <li><a href="#hero" class="active">Beranda</a></li>
-              <li><a href="#">Layanan Utama</a>
-              <li><a href="#inovasi">Inovasi</a></li>
-              <li><a href="#berita">Berita</a></li>
-              <li><a href="#dokumen">Dokumen</a></li>
-            </ul>
-            <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-          </nav>
-
-          <a class="cta-btn d-none d-sm-block" href="#pengaduan"
-            >Lapor Pengaduan</a
-          >
-        </div>
-      </div>
-    </header>
+    <?= view('front-end/layout/ml_header') ?>
 
     <main class="main">
       <!-- Hero Section -->
@@ -326,7 +231,7 @@
                 alt="Dinas Kesehatan Kabupaten Situbondo - Pelayanan Kesehatan Masyarakat"
               />
               <a
-                href="https://www.youtube.com/watch?v=Y7f98aduVJ8"
+                href="https://www.youtube.com/watch?v=x4x9N2ngPSQ"
                 class="glightbox pulsating-play-btn"
               ></a>
             </div>
@@ -517,17 +422,6 @@
           <div class="row justify-content-center">
             <div class="col-lg-10" data-aos="fade-up" data-aos-delay="100">
               <div class="faq-container">
-                <div class="faq-item faq-active">
-                  <h3>Di mana saya bisa melihat standar pelayanan resmi?</h3>
-                  <div class="faq-content">
-                    <p>
-                      Seluruh standar pelayanan Dinas Kesehatan tersedia pada laman Standar Pelayanan lengkap dengan jenis layanan, persyaratan, dan estimasi waktu.
-                    </p>
-                  </div>
-                  <i class="faq-toggle bi bi-chevron-right"></i>
-                </div>
-                <!-- End Faq item-->
-
                 <div class="faq-item">
                   <h3>Bagaimana cara mengajukan permohonan informasi PPID?</h3>
                   <div class="faq-content">
@@ -544,19 +438,6 @@
                   <div class="faq-content">
                     <p>
                       Sesuai regulasi, permohonan informasi ditindaklanjuti maksimal 10 hari kerja dan dapat diperpanjang 7 hari dengan pemberitahuan resmi.
-                    </p>
-                  </div>
-                  <i class="faq-toggle bi bi-chevron-right"></i>
-                </div>
-                <!-- End Faq item-->
-
-                <div class="faq-item">
-                  <h3>
-                    Bagaimana menindaklanjuti pengaduan yang sudah dikirim?
-                  </h3>
-                  <div class="faq-content">
-                    <p>
-                      Pengaduan dapat dipantau melalui kontak yang tercantum pada formulir. Tim PPID akan menghubungi pelapor jika diperlukan klarifikasi lanjutan.
                     </p>
                   </div>
                   <i class="faq-toggle bi bi-chevron-right"></i>
@@ -774,100 +655,12 @@
         </div>
         <!-- End Google Maps -->
 
-        
+
       </section>
       <!-- /Contact Section -->
     </main>
 
-    <footer id="footer" class="footer light-background">
-      <div class="container footer-top">
-        <div class="row gy-4">
-          <div class="col-lg-6 col-md-6 footer-about">
-            <a href="index.html" class="logo d-flex align-items-center">
-              <span class="sitename">Dinkes Situbondo</span>
-            </a>
-            <div class="footer-contact pt-3">
-              <p><strong>Dinas Kesehatan Kabupaten Situbondo</strong></p>
-              <p>Jl. PB. Sudirman No. 1</p>
-              <p>Situbondo, Jawa Timur 68312</p>
-              <p class="mt-3">
-                <strong>Telepon:</strong> <span>0822 65000 119</span>
-              </p>
-              <p>
-                <strong>Email:</strong> <span>dinkes@situbondokab.go.id</span>
-              </p>
-            </div>
-            <div class="social-links d-flex mt-4">
-              <a href="https://www.facebook.com/dinaskesehatansitubondo"
-                ><i class="bi bi-facebook"></i
-              ></a>
-              <a href="https://www.instagram.com/dinkes_situbondo"
-                ><i class="bi bi-instagram"></i
-              ></a>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-4 footer-links">
-            <h4>Navigasi</h4>
-            <ul>
-              <li><a href="#hero">Beranda</a></li>
-              <li><a href="#profil">Layanan Utama</a></li>
-              <li><a href="#informasi">Inovasi</a></li>
-              <li><a href="#galeri">Berita</a></li>
-              <li><a href="#pengaduan">Dokumen</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-2 col-md-4 footer-links">
-            <h4>Profil</h4>
-            <ul>
-              <li>
-                <a href="profil-sambutan-kepala-dinas.html"
-                  >Sambutan Kepala Dinas</a
-                >
-              </li>
-              <li>
-                <a href="profil-stuktur-organisasi.html">Struktur Organisasi</a>
-              </li>
-              <li>
-                <a href="profil-tugas-dan-fungsi.html">Dokumen Penting</a>
-              </li>
-            </ul>
-          </div>
-
-          <div class="col-lg-2 col-md-4 footer-links">
-            <h4>Dokumen</h4>
-            <ul>
-              <li><a href="informasi-dokumen-lakip.html">Lakip</a></li>
-              <li><a href="informasi-dokumen-renja.html">Renja</a></li>
-              <li><a href="informasi-dokumen-renstra.html">Renstra</a></li>
-              <li>
-                <a href="informasi-dokumen-perjanjian-kinerja.html"
-                  >Perjanjian Kinerja</a
-                >
-              </li>
-              <li>
-                <a href="informasi-dokumen-dokumen-lain-lain.html"
-                  >Dokumen Lain-lain</a
-                >
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <div class="container copyright text-center mt-4">
-        <p>
-          © <span>Copyright</span>
-          <strong class="px-1">Dinas Kesehatan Kabupaten Situbondo</strong>
-          <span>All Rights Reserved</span>
-        </p>
-        <p class="mb-2">
-          <strong>Dinkes Situbondo</strong> - Portal Resmi Kesehatan Masyarakat
-          Kabupaten Situbondo
-        </p>
-      </div>
-    </footer>
+    <?= view('front-end/layout/ml_footer') ?>
 
     <!-- Scroll Top -->
     <a
