@@ -937,7 +937,7 @@ section,
   z-index: 3;
 }
 
-.hero .welcome h2 {
+.hero .welcome :is(h1,h2) {
   margin: 0;
   font-size: 48px;
   font-weight: 700;

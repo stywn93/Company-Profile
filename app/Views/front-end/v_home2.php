@@ -4,9 +4,9 @@
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <title>
-      Dinas Kesehatan Kabupaten Situbondo | Dinkes Situbondo - Portal Resmi
+      Dinas Kesehatan Kabupaten Situbondo - Portal Resmi
     </title>
-    <meta name="description" content="Portal resmi Dinas Kesehatan Kabupaten Situbondo (Dinkes Situbondo). Akses informasi kesehatan Situbondo, profil organisasi, layanan publik, pengaduan, PPID, dan dokumentasi kegiatan kesehatan masyarakat."/>
+    <meta name="description" content="Portal resmi Dinas Kesehatan Kabupaten Situbondo untuk Informasi Kesehatan, Profil Organisasi, Pengaduan, dan PPID."/>
     <meta
       name="keywords" content="Dinas Kesehatan Kabupaten Situbondo, Dinkes Situbondo, Kesehatan Situbondo, dinas kesehatan situbondo, dinkes situbondo, informasi kesehatan situbondo, kesehatan masyarakat situbondo, pelayanan kesehatan situbondo"/>
     <meta name="author" content="Dinas Kesehatan Kabupaten Situbondo" />

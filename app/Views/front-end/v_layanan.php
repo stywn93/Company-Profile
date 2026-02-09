@@ -86,72 +86,62 @@
   <body class="index-page">
     <?php echo view('front-end/layout/ml_header') ?>
     <main class="main">
-      <!-- Page Title -->
-      <div class="page-title" data-aos="fade">
-        <div class="heading">
-          <div class="container">
-            <div class="row d-flex justify-content-center text-center">
-              <div class="col-lg-8">
-                <h1>Layanan Dinas Kesehatan Kabupaten Situbondo</h1>
-                <p class="mb-0">
-                  Halaman ini berisi tentang layanan-layanan yang dapat anda akses dari Dinas Kesehatan Kabupaten Situbondo.
-                </p>
+      <section id="services" class="services section">
+
+      <!-- Section Title -->
+      <div class="container section-title aos-init aos-animate" data-aos="fade-up">
+        <h2>Layanan</h2>
+        <p>Layanan yang disediakan Dinas Kesehatan Kabupaten Situbondo</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item  position-relative">
+              <div class="icon">
+                <i class="fas fa-heartbeat"></i>
               </div>
+              <a href="#" class="stretched-link">
+                <h3>BERANTAS</h3>
+              </a>
+              <p>Anda dapat berkonsultasi tentang program BERANTAS baik melalui Call Center kami atau datang langsung ke kantor Dinas Kesehatan Kabupaten Situbondo pada jam kerja.</p>
             </div>
-          </div>
-        </div>
-        <nav class="breadcrumbs">
-          <div class="container">
-            <ol>
-              <li><a href="index.html">Beranda</a></li>
-              <li class="current">Layanan</li>
-            </ol>
-          </div>
-        </nav>
-      </div><!-- End Page Title -->
+          </div><!-- End Service Item -->
 
-      <!-- Single Column Content -->
-      <section id="single-column" class="section">
-        <div class="container" data-aos="fade-up">
-          <div class="row justify-content-center">
-            <div class="col-lg-8">
-              <article class="mb-4">
-                <p>
-                  Dinas Kesehatan Kabupaten Situbondo (Dinkes Situbondo) menyediakan informasi lengkap tentang kesehatan masyarakat Situbondo. Di bagian ini Anda dapat menemukan informasi umum tentang program kesehatan, dasar hukum kesehatan, ataupun latar belakang kebijakan kesehatan di Kabupaten Situbondo agar mudah dipahami oleh pengunjung.
-                </p>
-                <p>
-                  Tambahkan beberapa paragraf tambahan untuk menguraikan detail informasi tentang layanan kesehatan, program kesehatan masyarakat, dan kegiatan Dinas Kesehatan Kabupaten Situbondo. Struktur satu kolom membuat konten lebih nyaman dibaca pada berbagai perangkat, baik desktop maupun mobile.
-                </p>
-              </article>
-
-              <article class="mb-4">
-                <h3 class="mb-3">Subbagian dengan Daftar</h3>
-                <p>Contoh daftar poin yang dapat digunakan:</p>
-                <ul>
-                  <li>Poin pertama yang menjelaskan item penting.</li>
-                  <li>Poin kedua yang menguraikan langkah atau prosedur.</li>
-                  <li>Poin ketiga yang berisi catatan, batasan, atau informasi tambahan.</li>
-                </ul>
-              </article>
-
-              <article class="mb-4">
-                <h3 class="mb-3">Kontak Dinas Kesehatan Kabupaten Situbondo</h3>
-                <p>
-                  Di bagian penutup, Dinas Kesehatan Kabupaten Situbondo (Dinkes Situbondo) menyediakan ringkasan informasi, tautan ke dokumen terkait kesehatan Situbondo, atau ajakan kepada masyarakat untuk
-                  menghubungi Dinas Kesehatan Kabupaten Situbondo apabila membutuhkan informasi lebih lanjut tentang kesehatan masyarakat Situbondo.
-                </p>
-                <p class="mb-0">
-                  Untuk informasi lebih lanjut tentang program kesehatan, layanan kesehatan, atau kegiatan Dinkes Situbondo, silakan hubungi Dinas Kesehatan Kabupaten Situbondo melalui kontak yang tersedia atau kunjungi halaman lainnya di portal ini.
-                </p>
-              </article>
-
+          <div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fas fa-pills"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>P-IRT</h3>
+              </a>
+              <p>Anda dapat berkonsultasi terkait Produk Pangan Industri Rumah Tangga agar mendapatkan izin resmi dari Dinas Kesehatan Kabupaten Situbondo.</p>
             </div>
-          </div>
-        </div>
-      </section><!-- /Single Column Content -->
+          </div><!-- End Service Item -->
 
+          <div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fas fa-hospital-user"></i>
+              </div>
+              <a href="#" class="stretched-link">
+                <h3>Rumah Pemulihan Gizi (RPG)</h3>
+              </a>
+              <p>Anda dapat membawa putra/putri kesayangan untuk mendapatkan pemeriksaan terkait gangguan tumbuh kembang atau permasalahan lainnya.</p>
+            </div>
+          </div><!-- End Service Item -->
+
+          
+
+        </div>
+
+      </div>
+
+    </section>
     </main>
-
 
     <?php echo view('front-end/layout/ml_footer') ?>
 
