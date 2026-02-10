@@ -63,6 +63,14 @@ class Home extends BaseController
         return view('front-end/v_layanan');
     }
 
+    function inovasi() {
+        return view('front-end/v_inovasi');
+    }
+
+    function dokumen() {
+        return view('front-end/v_dokumen');
+    }
+
     public function blog()
     {
         $setting = $this->setting->daftar();

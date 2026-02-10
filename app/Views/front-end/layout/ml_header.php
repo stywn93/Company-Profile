@@ -33,9 +33,9 @@
         <ul>
           <li><a href="<?=base_url() ?>">Beranda</a></li>
           <li><a href="layanan">Layanan Utama</a>
-          <li><a href="#inovasi">Inovasi</a></li>
+          <li><a href="inovasi">Inovasi</a></li>
           <li><a href="#berita">Berita</a></li>
-          <li><a href="#dokumen">Dokumen</a></li>
+          <li><a href="dokumen">Dokumen</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
