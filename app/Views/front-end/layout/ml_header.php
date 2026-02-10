@@ -40,7 +40,7 @@
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="cta-btn d-none d-sm-block" href="#pengaduan"
+      <a class="cta-btn d-none d-sm-block" href="pengaduan"
         >Lapor Pengaduan</a
       >
     </div>
