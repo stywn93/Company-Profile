@@ -10,6 +10,11 @@ $routes->get('/layanan', 'Home::layanan');
 $routes->get('/inovasi', 'Home::inovasi');
 $routes->get('/dokumen', 'Home::dokumen');
 $routes->get('/pengaduan', 'Home::pengaduan');
+$routes->get('/dokumen/profil', 'Home::profilkes');
+$routes->get('/dokumen/renstra', 'Home::renstra');
+$routes->get('/dokumen/renja', 'Home::renja');
+$routes->get('/dokumen/perjakin', 'Home::perjakin');
+$routes->get('/dokumen/lakip', 'Home::lakip');
 
 $routes->get('/home/blog', 'Home::blog');
 $routes->get('/home/detail/(:segment)', 'Home::detail/$1');

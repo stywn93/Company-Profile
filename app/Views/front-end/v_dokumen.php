@@ -103,7 +103,7 @@
                         <div class="icon">
                             <i class="fas fa-heartbeat"></i>
                         </div>
-                        <a href="#" class="stretched-link">
+                        <a href="<?= base_url() ?>dokumen/profil" class="stretched-link">
                             <h3>Profil Kesehatan</h3>
                         </a>
                         <p>Dokumen Profil Kesehatan Kabupaten Situbondo. Dokumen ini berisi tentang gambaran kesehatan Kabupaten Situbondo dalam periode waktu tertentu dan diperbarui secara berkala.</p>
@@ -115,7 +115,7 @@
                         <div class="icon">
                             <i class="fas fa-pills"></i>
                         </div>
-                        <a href="#" class="stretched-link">
+                        <a href="<?= base_url() ?>dokumen/renstra" class="stretched-link">
                             <h3>Rencana Strategis (Renstra)</h3>
                         </a>
                         <p>Dokumen rencana strategis instansi pemerintah (Renstra) adalah dokumen perencanaan resmi yang berisi arah, tujuan, sasaran, strategi, kebijakan, program, dan indikator kinerja suatu instansi pemerintah untuk jangka menengah (umumnya 5 tahun).</p>
@@ -127,7 +127,7 @@
                         <div class="icon">
                             <i class="fas fa-hospital-user"></i>
                         </div>
-                        <a href="#" class="stretched-link">
+                        <a href="<?= base_url() ?>dokumen/renja" class="stretched-link">
                             <h3>Rencana Kerja (Renja)</h3>
                         </a>
                         <p>Dokumen rencana kerja (Renja) Dinas Kesehatan adalah dokumen perencanaan tahunan yang memuat rencana program, kegiatan, dan anggaran Dinas Kesehatan dalam satu tahun anggaran.</p>
@@ -139,7 +139,7 @@
                         <div class="icon">
                             <i class="fas fa-hospital-user"></i>
                         </div>
-                        <a href="#" class="stretched-link">
+                        <a href="<?= base_url() ?>dokumen/lakip" class="stretched-link">
                             <h3>Laporan Akuntabilitas Kinerja Instansi Pemerintah (LAKIP)</h3>
                         </a>
                         <p>Laporan Akuntabilitas Kinerja Instansi Pemerintah (LAKIP) Dinas Kesehatan adalah dokumen resmi yang berisi pertanggungjawaban kinerja Dinas Kesehatan dalam satu tahun anggaran.do</p>
@@ -151,22 +151,10 @@
                         <div class="icon">
                             <i class="fas fa-hospital-user"></i>
                         </div>
-                        <a href="#" class="stretched-link">
+                        <a href="<?= base_url() ?>dokumen/perjakin" class="stretched-link">
                             <h3>Perjanjian Kinerja</h3>
                         </a>
                         <p>Dokumen Perjanjian Kinerja Dinas Kesehatan adalah dokumen resmi yang memuat Kesepakatan Kinerja, Rencana Target Kinerja, dan Dasar Hukum dan Komitmen.</p>
-                    </div>
-                </div><!-- End Service Item -->
-
-                <div class="col-lg-4 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
-                    <div class="service-item position-relative">
-                        <div class="icon">
-                            <i class="fas fa-hospital-user"></i>
-                        </div>
-                        <a href="#" class="stretched-link">
-                            <h3>Perubahan Renja</h3>
-                        </a>
-                        <p>Dokumen perubahan renja biasanya merujuk pada dokumen resmi yang memuat perubahan atau penyesuaian terhadap Rencana Kerja (Renja) suatu perangkat daerah/instansi dalam 1 tahun anggaran.</p>
                     </div>
                 </div><!-- End Service Item -->
 

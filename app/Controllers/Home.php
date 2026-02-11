@@ -75,6 +75,26 @@ class Home extends BaseController
         return view('front-end/v_pengaduan');
     }
 
+    function profilkes() {
+        return view('front-end/v_profil');
+    }
+
+    function renstra() {
+        return view('front-end/v_renstra');
+    }
+
+    function renja() {
+        return view('front-end/v_renja');
+    }
+
+    function perjakin() {
+        return view('front-end/v_perjakin');
+    }
+
+    function lakip() {
+        return view('front-end/v_lakip');
+    }
+
     public function blog()
     {
         $setting = $this->setting->daftar();
